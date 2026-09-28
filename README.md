@@ -5,7 +5,7 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%); padding: 60px 20px; border-radius: 48px; margin: 20px 0; box-shadow: 0 20px 40px -15px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05); border: 1px solid rgba(59,130,246,0.3);">
-    <h1 style="color: #FFFFFF; font-size: 58px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; background: linear-gradient(135deg, #FFFFFF, #93C5FD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Muhammad Ali Anjum</h1>
+    <h1 style="color: #FFFFFF; font-size: 58px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; background: linear-gradient(135deg, #FFFFFF, #93C5FD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;"></h1>
     <p style="color: #94A3B8; font-size: 24px; margin: 16px 0 0; font-weight: 500; letter-spacing: 0.5px;">Full Stack Developer · MERN Expert · AI & NLP Engineer</p>
     <div style="margin-top: 24px;">
     </div>
@@ -41,7 +41,7 @@
       <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;">
         <div style="font-size: 32px; margin-bottom: 12px;">📫</div>
         <strong style="color:#3B82F6; font-size: 18px;">Email</strong><br />
-        <a href="mailto:anjumbalgharii@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">anjumbalgharii@gmail.com</a>
+        <a href="mailto:sh2384228@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">sh238422@gmail.com</a>
       </td>
     </tr>
    </table>
@@ -160,26 +160,26 @@
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 30px 20px; margin: 20px auto; width: 92%; border: 1px solid #334155;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shahid-Afridi&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid Afridi&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
   </div>
 </div>
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 92%; border: 1px solid #334155;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-Anjum&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid-Afridi&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
   </div>
 </div>
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 95%; border: 1px solid #334155;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali-Anjum&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shahid-Afridi&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
   </div>
 </div>
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 95%; border: 1px solid #334155;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ali-Anjum&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-Afridi&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
   </div>
 </div>
 
@@ -192,9 +192,9 @@
 
 <p align="center">
   <a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Muhammad-Ali-Anjum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/Shahid-Afridi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Shahid-Afridi-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/shahidafridi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <br />
@@ -202,7 +202,7 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
-<img src="https://visit-counter.vercel.app/count?username=Muhammad-Ali-Anjum&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" /><p style="color: #94A3B8; margin-top: 20px;">
+<img src="https://visit-counter.vercel.app/count?username=Shahid-Aridi&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" /><p style="color: #94A3B8; margin-top: 20px;">
   ⚡ <strong>Always building, always learning</strong> open to collaborations on AI & full‑stack projects.<br />
   💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
 </p>
